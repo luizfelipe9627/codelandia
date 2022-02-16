@@ -1,0 +1,45 @@
+@media (min-width: 320px) and (max-width: 425px) {
+
+    /*  
+    CONTAINER CODELÃNDIA ↴
+    */
+
+    .container_content  {
+        padding-top: 40px;
+        max-width: 85vw;
+    }
+
+    .container_input {
+        max-width: 85vw;
+        margin-top: 60px;
+    }
+
+    input {
+        height: 40px;
+    }
+
+    /*  
+    CONTAINER NEWS ↴
+    */
+
+    .container_news {
+        max-width: 85vw;
+    }
+
+    .content_news {
+        margin-top: 60px;
+    }
+
+    .text_news:last-child{
+        margin-bottom: 60px;
+    }
+
+    .date_news {
+        padding-right: 170px;
+    }
+
+    .heart {
+        margin: auto;
+    }
+    
+}
