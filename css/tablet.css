@@ -33,12 +33,4 @@
     .text_news:last-child{
         margin-bottom: 60px;
     }
-
-    .date_news {
-        padding-right: 480px;
-    }
-
-    .heart {
-        margin: auto;
-    }
 }
