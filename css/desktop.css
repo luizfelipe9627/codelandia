@@ -131,9 +131,9 @@ input::-webkit-search-cancel-button {
 */
 
 footer {
-    background-color: #333;
+    background: linear-gradient(88.27deg, #574AE8 0%, #3EA1DB 100%);
     color: #FFF;
-    padding: 80px;
+    padding: 60px;
     text-align: center;
     text-decoration: none;
     
@@ -145,5 +145,5 @@ footer a {
 }
 
 footer a:hover {
-    color: #117050;
+    color: #000;
 }
