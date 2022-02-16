@@ -91,7 +91,7 @@ input::-webkit-search-cancel-button {
 }
 
 .content_news {
-    margin-top: 100px;
+    margin-top: 70px;
     padding: 20px;
     display: flex;
 }
@@ -116,14 +116,10 @@ input::-webkit-search-cancel-button {
     margin-top: 10px;
     margin-left: 20px;
     margin-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     font-size: 18px;
     line-height: 32px;
     color: rgba(113, 113, 113, 1);
-}
-
-.text_news:last-child{
-    margin-bottom: 100px;
 }
 
 /*
@@ -132,6 +128,7 @@ input::-webkit-search-cancel-button {
 
 footer {
     background: linear-gradient(88.27deg, #574AE8 0%, #3EA1DB 100%);
+    margin-top: 100px;
     color: #FFF;
     padding: 60px;
     text-align: center;
