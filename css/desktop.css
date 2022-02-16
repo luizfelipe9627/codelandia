@@ -125,3 +125,25 @@ input::-webkit-search-cancel-button {
 .text_news:last-child{
     margin-bottom: 100px;
 }
+
+/*
+    ÁREA CRÉDITOS ↴
+*/
+
+footer {
+    background-color: #333;
+    color: #FFF;
+    padding: 80px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+footer a {
+    color: #FFF;
+    font-weight:bold;
+}
+
+footer a:hover {
+    color: #117050;
+}
