@@ -6,10 +6,12 @@
 ## 📄 Descrição
 Codelândia é um blog na qual se passa as maiores noticiais da atualidade.
 
+### <a href="https://luizfelipe9627.github.io/codelandia_desafio1">Acesse o site</a>
+
 ## 📑 Observação
 Este layout foi criado como um exercicio que foi dado pelo Iuri Silva.
 
-### <a href="https://luizfelipe9627.github.io/codelandia_desafio1">Acesse o site</a>
+### <a href="https://luizfelipe9627.github.io/codelandia_desafio1">Acesse o layout</a>
 
 ## 💻 Tecnologias utilizadas
 
