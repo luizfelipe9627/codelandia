@@ -9,7 +9,10 @@ Codelândia é um blog na qual se passa as maiores noticiais da atualidade.
 ### <a href="https://luizfelipe9627.github.io/codelandia_desafio1">Acesse o site</a>
 
 ## 📑 Observação
-Este layout foi criado como um exercicio que foi dado pelo Iuri Silva.
+Como uma forma de sair um pouco da rotina, cumpri com sucesso o desafio proposto por Iuri Silva como um jeito para praticar HTML5 e CSS3.
+
+## 🔍 Layout.
+Este layout foi criado por Iuri Silva.
 
 ### <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1">Acesse o layout</a>
 
