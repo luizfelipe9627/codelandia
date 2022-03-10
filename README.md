@@ -1,14 +1,17 @@
 # Codelândia - 1º Desafio
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
+![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
 <img src="https://github.com/luizfelipe9627/codelandia_desafio1/blob/master/images/codelandia.png" alt="Site">
 
-## 📄 Resumo
+## 📄 Descrição
 Codelândia é um blog na qual se passa as maiores noticiais da atualidade.
 
-## <a href="https://luizfelipe9627.github.io/codelandia_desafio1">Acesse o site</a>
+## 📑 Observação
+Este layout foi criado como um exercicio que foi dado pelo Iuri Silva.
 
-## ✔️ Tecnologias utilizadas
+### <a href="https://luizfelipe9627.github.io/codelandia_desafio1">Acesse o site</a>
+
+## 💻 Tecnologias utilizadas
 
 - ``HTML5``
 - ``CSS3``
@@ -28,7 +31,7 @@ Codelândia é um blog na qual se passa as maiores noticiais da atualidade.
   </tr>
 </table>
 
-## 😄 Me siga nas redes sociais<br>
+## 📷 Me siga nas redes sociais<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luizfelipe9627/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
