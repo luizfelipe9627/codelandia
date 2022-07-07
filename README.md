@@ -6,7 +6,7 @@
 ## 📄 Descrição
 Codelândia é um blog na qual se passa as maiores noticiais da atualidade.
 
-### <a href="https://luizfelipe9627.github.io/codelandia-desafio1">Acesse o site</a>
+### <a href="https://luizfelipe9627-codelandia.netlify.app">Acesse o site</a>
 
 ## 📑 Observação
 Como uma forma de sair um pouco da rotina, cumpri com sucesso o desafio proposto por Iuri Silva como um jeito para praticar HTML5 e CSS3.
