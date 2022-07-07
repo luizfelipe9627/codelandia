@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lexend Deca';
+  flex-wrap: wrap;
+  background-color: rgba(128, 128, 128, 0.158);
+}
+
+body a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+::placeholder {
+  color: rgba(255, 255, 255, 0.589);
+  font-size: 1rem;
+}

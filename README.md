@@ -1,7 +1,7 @@
 # Codelândia - 1º Desafio
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/codelandia-desafio1/blob/master/assets/videos/codelandia.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/codelandia-desafio1/blob/master/assets/videos/codelandia.gif" alt="Apresentação do Codelândia">
 
 ## 📄 Descrição
 Codelândia é um blog na qual se passa as maiores noticiais da atualidade.
